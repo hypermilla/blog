@@ -1,0 +1,177 @@
+[config.site]
+title = "hypermilla"
+description = "documenting my hyperspace journey in public"
+pageTitle = "hypermilla | maker of internet things"
+pageDescription = "I make things for the web."
+repository = "https://github.com/hypermilla/blog"
+footerNote = "living hyperspace dreams"
+
+[config.vibe]
+showTrail = true
+
+[config.theme]
+# Available palettes:
+# green-soft, green-vivid, rose-soft, pink-soft, purple-soft, blue-soft, orange-soft, brown-soft
+palette = "pink-soft"
+
+[config.comments]
+enabled = false
+provider = "giscus"
+show_on_posts = true
+
+[config.search]
+enabled = false
+shortcut = "mod+k"
+placeholder = "Search notes..."
+maxResults = 6
+
+[config.blog]
+postsPerPage = 6
+
+[config.comments.giscus]
+repo = "dodolalorc/astro-navfolio"
+repo_id = "R_kgDOSaQejw"
+category = "Announcements"
+category_id = "DIC_kwDOSaQej84C9di9"
+mapping = "pathname"
+strict = "0"
+reactions_enabled = "1"
+emit_metadata = "0"
+input_position = "top"
+theme = "preferred_color_scheme"
+lang = "zh-CN"
+loading = "lazy"
+
+[config.comments.utterances]
+repo = ""
+issue_term = "pathname"
+label = "comment"
+theme = "github-light"
+
+[config.comments.waline]
+server_url = ""
+lang = "zh-CN"
+dark = "html.dark"
+pageview = true
+comment = true
+
+[config.profile]
+name = "hypermilla"
+handle = "@hypermilla"
+role = "internet maker"
+company = "independent studio"
+location = "remote in hyperspace"
+email = "hypermilla@protonmail.com"
+website = "https://hypermilla.com/"
+github = "https://github.com/hypermilla"
+meta = "I make cool things for the web."
+avatar = "/images/hypermilla_unipop.jpg"
+
+[[config.topNav.links]]
+label = "Home"
+href = "/"
+
+[[config.topNav.links]]
+label = "Blog"
+href = "/blog"
+
+# [[config.topNav.links]]
+# label = "Projects"
+# href = "/projects"
+
+# [[config.topNav.links]]
+# label = "Vibe"
+# href = "/vibe"
+
+# [[config.topNav.links]]
+# label = "About"
+# href = "/about"
+
+[config.home]
+layout = "grid"
+
+[config.home.quote]
+text = ["riding hyperspace dreams"]
+image = "/images/logo-with-name.png"
+
+[config.home.intro]
+title = "I'm hypermilla"
+name = "hypermilla"
+body = [
+  "I am a game developer by day, internet maker by night.",
+  "I am a designer by trade who loves coding.  I've been creating all kinds of experiments for the web for years, as well as illustrations, games, art.",
+  "Now, I want to build in public and hope to impact some people!"
+]
+image = "/images/hypermilla_unipop.jpg"
+
+[config.home.latest]
+count = 1
+heatmapWeeks = 12
+showHeatmapLatest = false
+excludeDraft = false
+startDate = ""
+dateArchiveBaseHref = ""
+
+# [[config.home.navigation]]
+# icon = "compass"
+# title = "Portfolio"
+# subtitle = "Selected work and case studies"
+# href = "https://astro.navfolio.site/"
+
+[[config.home.navigation]]
+icon = "pen"
+title = "Blog"
+subtitle = "Essays, notes, and field reports"
+href = "/blog"
+
+[[config.home.navigation]]
+icon = "twitter"
+title = "Twitter"
+subtitle = "Thoughts and updates"
+href = "https://twitter.com/hypermilla"
+
+[[config.home.navigation]]
+icon = "github"
+title = "Some code I shared"
+subtitle = "Code, experiments, and tools"
+href = "https://github.com/hypermilla"
+
+[[config.home.connect]]
+label = "Blog"
+href = "/blog"
+icon = "book"
+
+[[config.home.connect]]
+label = "GitHub"
+href = "https://github.com/hypermilla"
+icon = "github"
+
+[[config.home.connect]]
+label = "Ko-fi"
+href = "https://ko-fi.com/hypermilla"
+icon = "compass"
+
+[[config.home.connect]]
+label = "Email"
+href = "hypermilla@protonmail.com"
+icon = "mail"
+
+[[config.home.doing]]
+text = "Working on my first webcomic"
+mark = "01"
+
+[[config.home.doing]]
+text = "Creating an agent-first tool for tracking everyday life with less friction"
+mark = "02"
+
+[[config.home.doing]]
+text = "Working on some cool demos with threejs"
+mark = "03"
+
+[[config.home.doing]]
+text = "Always be collecting Pokémon cards and retro handhelds"
+mark = "04"
+
+[[config.home.doing]]
+text = "Using an AI + markdown files second brain to overcome Resistance!"
+mark = "05"
