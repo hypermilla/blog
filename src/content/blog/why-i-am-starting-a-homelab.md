@@ -4,7 +4,7 @@ description: 'Turning an old mini PC that could not be a great Steam machine int
 date: '2026-05-31T21:30:00-03:00'
 draft: false
 heroImage: '/src/assets/figure/lotus.png'
-showHeroImage: true
+showHeroImage: false
 tags:
   - 'homelab'
   - 'self-hosting'

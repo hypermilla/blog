@@ -4,7 +4,7 @@ description: 'This is my first post!'
 date: '2026-05-24T21:45:55-03:00'
 draft: false
 heroImage: '/src/assets/figure/lotus.png'
-showHeroImage: true
+showHeroImage: false
 tags:
   - 'purpose'
 comments: true
