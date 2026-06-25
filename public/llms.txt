@@ -1,0 +1,31 @@
+# hypermilla
+
+> Personal blog and digital garden by hypermilla, an internet maker writing about Linux, homelab, self-hosting, game development, AI-assisted workflows, and building in public.
+
+This site is content-first. The most relevant material is the blog: personal essays, technical field notes, and reflections on using computers, servers, and AI tools in everyday creative work.
+
+## Core pages
+
+- [Home](https://hypermilla.com/): Overview of hypermilla and current work.
+- [Blog](https://hypermilla.com/blog/): Essays, notes, and field reports.
+- [RSS feed](https://hypermilla.com/rss.xml): Feed for all published posts.
+- [Sitemap](https://hypermilla.com/sitemap-index.xml): Complete crawlable URL index.
+
+## Blog posts
+
+- [My Chaotic Journey to Daily Driving Linux in 2026](https://hypermilla.com/blog/my-chaotic-journey-to-daily-driving-linux-in-2026/): A personal history of trying to daily drive Linux, from Live CDs and Slackware to Fedora, Hyprland, NVIDIA, Proton, and AI-assisted troubleshooting.
+- [Why I Started My Own Homelab](https://hypermilla.com/blog/why-i-started-my-own-homelab/): Turning an old mini PC into a homelab server for Linux, Docker, self-hosting, local-first tools, and personal infrastructure.
+- [Starting my public building journey](https://hypermilla.com/blog/starting-my-public-building-journey/): First public note about publishing and building in public.
+
+## Topics
+
+- Linux desktop, Fedora, KDE Plasma, Hyprland, Wayland, NVIDIA, Proton
+- Homelab, self-hosting, Docker, Tailscale, media servers, backups
+- AI-assisted troubleshooting, agent workflows, personal tools
+- Web development, game development, creative computing
+
+## Author
+
+- [GitHub](https://github.com/hypermilla): Code, experiments, and tools.
+- [Twitter](https://twitter.com/hypermilla): Thoughts and updates.
+- [Ko-fi](https://ko-fi.com/hypermilla): Support link.

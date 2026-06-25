@@ -22,7 +22,7 @@ const githubPagesSite =
     : undefined;
 
 const resolvedSite =
-  customSite || (isGitHubActions && githubPagesSite ? githubPagesSite : 'https://example.com');
+  customSite || (isGitHubActions && githubPagesSite ? githubPagesSite : 'https://hypermilla.com');
 
 const resolvedBase =
   customBase || (isGitHubActions && isProjectPage && repositoryName ? `/${repositoryName}` : '/');

@@ -170,7 +170,7 @@ const isArchiveHeader = variant === 'archive';
 
   .article-hero-image {
     width: 100%;
-    height: 84px;
+    height: clamp(160px, 30vw, 220px);
     margin: 10px 0 0;
     overflow: hidden;
     border: 1px solid var(--paper-line);
@@ -181,8 +181,9 @@ const isArchiveHeader = variant === 'archive';
   .article-hero-image :global(img) {
     display: block;
     width: 100%;
-    height: 84px;
+    height: 100%;
     object-fit: cover;
+    object-position: center;
     border: 0;
     border-radius: 0;
     box-shadow: none;
@@ -204,9 +205,8 @@ const isArchiveHeader = variant === 'archive';
       line-height: 1.1;
     }
 
-    .article-hero-image,
-    .article-hero-image :global(img) {
-      height: 84px;
+    .article-hero-image {
+      height: 150px;
       border-radius: 6px;
     }
   }

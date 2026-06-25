@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+
+# Content use signals for AI/search crawlers that support them.
+Content-Signal: search=yes, ai-input=yes, ai-train=yes
+
+Sitemap: https://hypermilla.com/sitemap-index.xml
+Host: https://hypermilla.com
+

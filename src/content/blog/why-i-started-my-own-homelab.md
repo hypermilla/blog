@@ -1,10 +1,10 @@
 ---
-title: 'Why I started my own homelab'
+title: 'Why I Started My Own Homelab'
 description: 'Turning an old mini PC that could not be a great Steam machine into a surprisingly good homelab server.'
 date: '2026-05-31T21:30:00-03:00'
 draft: false
-heroImage: '/src/assets/figure/lotus.png'
-showHeroImage: false
+heroImage: '/src/assets/figure/started-my-homelab.png'
+showHeroImage: true
 tags:
   - 'homelab'
   - 'self-hosting'
@@ -17,7 +17,7 @@ sidebar:
   relatedPosts: true
 ---
 
-## Why I started my own homelab: creating "deoxys"
+## Why I Started My Own Homelab: Creating "deoxys"
 
 For a long time, my "server" was just my main gaming/work PC pretending to be infrastructure. It ran Plex, held a bunch of files, and stayed on way more than it should because turning it off also meant turning off parts of my digital life.
 
